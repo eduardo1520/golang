@@ -2,7 +2,7 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
+	"errors"
 	"os"
 
 	"github.com/k0kubun/pp"
@@ -21,13 +21,11 @@ func loadJson(arquivo string) (Videos, error) {
 	bytes, err := os.ReadFile(arquivo)
 
 	if err != nil {
-		fmt.Println("Unable to load config file!")
-		return v, err
+		return v, errors.New("Unable to load config file!")
 	}
 
 	if err := json.Unmarshal(bytes, &v); err != nil {
-		fmt.Println("JSON decode error!")
-		return v, err
+		return v, errors.New("JSON decode error!")
 	}
 
 	return v, nil
