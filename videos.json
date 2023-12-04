@@ -1,0 +1,55 @@
+{
+    "videos": [
+        {
+			"url"  : "https://www.youtube.com/watch?v=Q9pHLvPNPqI&list=RDQ9pHLvPNPqI&index=1",
+		    "nome" : "Fica",
+		    "cantor": "Simone & Simaria feat Imagina Samba"
+
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=WcftJjpzDv8&list=RDQ9pHLvPNPqI&index=2",
+            "nome": "Amor de amante",
+            "cantor": "Suel"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=CDAM4uhc7hk&list=RDQ9pHLvPNPqI&index=4",
+            "nome": "Sem você",
+            "cantor": "Nosso Sentimento"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=cwIdztqusEM&list=RDQ9pHLvPNPqI&index=1",
+            "nome": "Ninguém merece amar sozinho",
+            "cantor": "Sorriso Maroto & Ludmilla"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=mk3yhJJ-ykI&list=RDQ9pHLvPNPqI&index=1",
+            "nome": "Pele na pele",
+            "cantor": "Nosso sentimento"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=qwXzMp9w32w",
+            "nome": "Vi amor no seu olhar",
+            "cantor": "Belo"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=lsnJwps_cB8",
+            "nome": "Me entreguei demais",
+            "cantor": "Rodriguinho"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=5VP2tc6QUm8",
+            "nome": "Será que vale apena",
+            "cantor": "Rodriguinho & Gaab"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=J8DPEaJxIkw",
+            "nome": "Adeus",
+            "cantor": "Sorriso Maroto & Roupa Nova"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=VgPbbxPWqio",
+            "nome": "Só você não vê",
+            "cantor": "Imagina samba"
+        }
+    ]
+}
